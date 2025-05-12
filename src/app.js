@@ -7,7 +7,6 @@ import "./assets/img/4geeks.ico";
 window.onload = function () {
   console.log("Hello Rigo from the console!");
 
-  // Excuse Generator logic
   let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
   let action = ['ate', 'peed', 'crushed', 'broke'];
   let what = ['my homework', 'my phone', 'the car'];
